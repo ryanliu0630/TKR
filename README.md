@@ -1,2 +1,4 @@
 # TKR
 A project that optimizes the geometry of a total knee replacement
+
+Total knee replacements fail in many patients due to pitting and cracking of the polyethylene layer of the tibial component. This is most likely due to the high stresses in polyethylene as a result of contact between the femoral and tibial components of the prosthesis. In this project, I analyzed the stresses put on the polymer by two loads– one 20mm from the left of the prosthesis and one 60mm from the left. Assuming that the prosthesis is a finite composite beam consisting of a polyethylene layer and a metal layer, I used beam on elastic foundation and hertz contact theories to optimize the thickness of the polyethylene layer, the thickness of the metal layer, and the radii of the tibial and femoral components in the frontal and sagittal plane. 
